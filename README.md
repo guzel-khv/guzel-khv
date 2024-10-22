@@ -36,6 +36,9 @@
 ---
 
 ### My Guides:
+[**Lucidity**](https://guzel-khv.notion.site/Lucidity-1275dcdba6d580be9a4cfbade1c7d788?pvs=25)
+
+[**Versatus**](https://guzel-khv.notion.site/Versatus-1275dcdba6d580b2b236f4dd7b41f7f1)
 
 [**0G Node and Validator Setup Guide**](https://www.notion.so/0G-Node-and-Validator-Setup-Guide-06c8ac305b764511ac8e7e7cfd5aa46f?pvs=21)
 
