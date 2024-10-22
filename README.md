@@ -32,7 +32,6 @@
 
 - **My E-mail: banemarton@gmail.com**
 
-- [**My Discord Account**](https://discord.com/users/959406202062786580)
 
 ---
 
